@@ -154,16 +154,3 @@ Estoy abierto a:
 ``
 
 ---
-
-## 📝 Instrucciones para activarlo en GitHub:
-
-1. **Crea un nuevo repositorio** en GitHub.
-2. **Nombre exacto:** Debe llamarse exactamente igual que tu usuario de GitHub. Ejemplo: si tu usuario es silvioalzate, el repositorio debe llamarse **silvioalzate**.
-3. **Hazlo público** (Public).
-4. **Inicializa con README** (opcional, puedes crear el archivo tú mismo).
-5. **Pega el contenido anterior** en el archivo README.md`.
-6. Guarda (Commit).
-
-¡Y listo! Tu perfil de GitHub se verá profesional y atractivo.
-
----
