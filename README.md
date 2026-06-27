@@ -19,8 +19,6 @@ Desarrollador Full-Stack | Especialista en Automatización e IA
 
 </div>
 
----
-
 🧑‍💻 Sobre mí
 
 Soy un desarrollador de software con enfoque en IA (vibe coding), apasionado por crear soluciones tecnológicas que generen valor real para negocios. Combino tecnologías modernas con automatización inteligente para resolver problemas complejos de forma elegante.
