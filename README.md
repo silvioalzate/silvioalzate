@@ -102,8 +102,6 @@ OpenAI / Claude
 </p>
 
 ---
-
----
 🚀 Otro de mis proyectos es Azai-Restaurant
 
 Sistema completo de gestión de restaurantes construído con nodejs y mongodb 
@@ -163,8 +161,6 @@ Estoy abierto a:
 | 💼 LinkedIn (https://linkedin.com/in/silvio-alzate) | 📧 silvioalzate@gmail.com | 🌐 cirux.cloud (https://cirux.cloud/) |
 
 </div>
-
----
 
 <div align="center">
 
