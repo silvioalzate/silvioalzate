@@ -169,6 +169,5 @@ Estoy abierto a:
 <sub>Hecho con ❤️ desde Pereira, Colombia 🇨🇴</sub>
 
 </div>
-``
 
 ---
