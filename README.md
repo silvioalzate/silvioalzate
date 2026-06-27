@@ -1,6 +1,3 @@
----
-
-```markdown
 <!-- Header -->
 <div align="center">
 
