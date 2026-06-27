@@ -103,6 +103,33 @@ OpenAI / Claude
 
 ---
 
+---
+🚀 Otro de mis proyectos es Azai-Restaurant
+
+Sistema completo de gestión de restaurantes construído con nodejs y mongodb 
+
+Azai-Restaurant
+Facilita la gestión de restaurantes con una aplicación web fácil de usar y configurar en cualquier dispositivo y facilita el trabajo de todo el equipo del restaurante.
+
+⚡️ Resultados reales:
+- -40% de pérdida de comandas
+- -30% caos en las horas pico
+- Disponibilidad 24/7
+
+nodejs 9.4 +
+• Estado: ✅ Producción
+
+mongoDB + mongoose 5.0
+• Estado: ✅ Producción
+
+JWT
+• Estado: ✅ Producción
+
+Bcrypt 
+• Estado: ✅ Producción
+
+---
+
 📊 Estadísticas de GitHub
 
 <div align="center">
